@@ -1,4 +1,4 @@
-# LearningElm
+# Learning Elm
 A repository of code, links and and notes
 
 
