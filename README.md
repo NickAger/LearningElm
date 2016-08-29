@@ -16,3 +16,4 @@ Gem:
 * [Another discussion on private state](https://groups.google.com/forum/?utm_source=DailyDrip+Elm+Public+List&utm_campaign=3fd10707d0-Elm_Weekly_Drip_20_8_27_2016&utm_medium=email&utm_term=0_5663aebb97-3fd10707d0-142982941#!topic/elm-discuss/_cfOu88oCx4)
 * [Elm sortable table](https://github.com/evancz/elm-sortable-table)
 * [How to get rid of most of that boilerplate in the elm-mdl library ](https://medium.com/@debois/elm-components-3d9c00c6c612#.b8euskn3z)
+* [Elm component support](http://package.elm-lang.org/packages/emtenet/elm-component-support/1.0.0)
