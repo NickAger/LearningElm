@@ -2,6 +2,7 @@
 
 * [Elm course from Pragmatic Studio](https://pragmaticstudio.com/courses/elm)
 * [Awesome Elm - a set of links to Elm talks, code, tutorials etc](https://github.com/isRuslan/awesome-elm)
+* 
 
 ### Avoid thinking in terms of components in Elm
 
