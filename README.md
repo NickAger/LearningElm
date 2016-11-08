@@ -1,8 +1,7 @@
 # Learning Elm
-A repository of code, links and and notes
 
 * [New course on Elm 0.18 from Pragmatic Studio is coming soon](https://groups.google.com/forum/#!search/elm$200.18/phoenix-talk/S5DD6OX5Y_M/sIxfzyd7AgAJ)
-
+* [Awesome Elm - a set of links to Elm talks, code, tutorials etc](https://github.com/isRuslan/awesome-elm)
 
 ### Avoid thinking in terms of components in Elm
 
