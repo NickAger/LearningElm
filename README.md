@@ -1,6 +1,8 @@
 # Learning Elm
 A repository of code, links and and notes
 
+* [New course on Elm 0.18 from Pragmatic Studio is coming soon](https://groups.google.com/forum/#!search/elm$200.18/phoenix-talk/S5DD6OX5Y_M/sIxfzyd7AgAJ)
+
 
 ### Avoid thinking in terms of components in Elm
 
@@ -12,9 +14,16 @@ Gem:
 > Elm doesn't have monads and applicative functors. Instead, we thought about it for a few years until we came up with the name `andThen`. We avoided a whole boatload of pedagogical problems by choosing the right term and framing. People just "get it" and no one has to write a tutorial
 
 * [Discussion of modules and components](utm_source=DailyDrip+Elm+Public+List&utm_campaign=3fd10707d0-Elm_Weekly_Drip_20_8_27_2016&utm_medium=email&utm_term=0_5663aebb97-3fd10707d0-142982941#!topic/elm-discuss/_cfOu88oCx4)
-* [Even in Elm autocomplete video](https://www.youtube.com/watch?v=KSuCYUqY058&feature=youtu.be&t=1h14m50s)
+* [Evan in Elm autocomplete video](https://www.youtube.com/watch?v=KSuCYUqY058&feature=youtu.be&t=1h14m50s)
 * [Another discussion on private state](https://groups.google.com/forum/?utm_source=DailyDrip+Elm+Public+List&utm_campaign=3fd10707d0-Elm_Weekly_Drip_20_8_27_2016&utm_medium=email&utm_term=0_5663aebb97-3fd10707d0-142982941#!topic/elm-discuss/_cfOu88oCx4)
 * [Elm sortable table](https://github.com/evancz/elm-sortable-table)
 * [How to get rid of most of that boilerplate in the elm-mdl library ](https://medium.com/@debois/elm-components-3d9c00c6c612#.b8euskn3z)
 * [Elm component support](http://package.elm-lang.org/packages/emtenet/elm-component-support/1.0.0)
 * [Elm packages](http://package.elm-lang.org)
+
+
+### Decoding and Encoding binary in Elm
+
+* [Elm Crypto](https://github.com/Strikeskids/elm-crypto) - has Javascrip ArrayBuffer bindings
+* [Google groups: Support for binary data](https://groups.google.com/forum/#!topic/elm-discuss/spr621OlUeo)
+* [Google groups: Collecting use cases for File, ArrayBuffer and TypedArrays/DataViews](https://groups.google.com/forum/#!topic/elm-discuss/u_ui3PlDwLc)
