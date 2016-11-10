@@ -2,7 +2,9 @@
 
 * [Elm course from Pragmatic Studio](https://pragmaticstudio.com/courses/elm)
 * [Awesome Elm - a set of links to Elm talks, code, tutorials etc](https://github.com/isRuslan/awesome-elm)
-* 
+
+### Other links
+* [Elmctron - Elm + Electron](http://www.gizra.com/content/elm-electron-build/) desktop apps in Elm
 
 ### Avoid thinking in terms of components in Elm
 
