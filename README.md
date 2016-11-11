@@ -39,3 +39,4 @@ Gem:
 ![](qPlBUp5.png)
 
 * [What it feels like to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.2noc5vuhb)
+* [Javascript fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.md53ojc16)
