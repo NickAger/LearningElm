@@ -34,3 +34,5 @@ Gem:
 
 ![](Screen Shot 2016-03-23 at 13.35.08.png)
 
+### Anti-Javascript propaganda
+
