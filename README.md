@@ -36,3 +36,4 @@ Gem:
 
 ### Anti-Javascript propaganda
 
+![](qPlBUp5.png)
