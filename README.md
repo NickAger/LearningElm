@@ -2,6 +2,7 @@
 
 * [Elm course from Pragmatic Studio](https://pragmaticstudio.com/courses/elm)
 * [Awesome Elm - a set of links to Elm talks, code, tutorials etc](https://github.com/isRuslan/awesome-elm)
+* [Tour of an Open-Source Elm SPA](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 
 ### Other links
 * [Elmctron - Elm + Electron](http://www.gizra.com/content/elm-electron-build/) desktop apps in Elm
