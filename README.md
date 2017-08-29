@@ -41,3 +41,8 @@ Gem:
 
 * [What it feels like to learn Javascript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.2noc5vuhb)
 * [Javascript fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4#.md53ojc16)
+
+### If you are forced to use Javascript
+* [Ramda - A practical functional library for JavaScript programmers](http://ramdajs.com)
+* [Typescript](https://www.typescriptlang.org)
+* [Flow - a static type checker for Javascript](https://flow.org)
